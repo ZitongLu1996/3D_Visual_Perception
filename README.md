@@ -36,10 +36,13 @@ code/Behavioral_analysis_and_visualization.ipynb
 > Behavioral analyses on pre-task 3 (Cube Adjustment Task) and visualization of individual results.
 
 code/EEG_analysis_and_visualization.ipynb
-> RSA analyses based on EEG signals and visualizations of key results.
+> RSA analyses based on EEG signals.  
+> Including "Calculate EEG RDMs" + "Correlation" + "Partial Correlation without Integration" + "Partial Correlation with Integration"
 
 code/fMRI_analysis_and_visualization.ipynb
-> RSA analyses based on fMRI signals and visualizations of key results. (*We didn't include all the codes for geometric distance representations, ROI-based analyses, and permutation analyses - which are highly similar to the code you will find in this file.)
+> RSA analyses based on fMRI signals and visualizations of key results.  
+> Including "Calculate RDMs" + "Searchlight RSA"  
+> (*We didn't include all the codes for geometric distance representations, ROI-based analyses, and permutation analyses - which are highly similar to the code you will find in this file.)
 
 ---
 
