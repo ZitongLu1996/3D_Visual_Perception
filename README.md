@@ -62,4 +62,4 @@ This code is released under the MIT License.
 ## 6. Citation
 
 If you use this code or dataset, please cite the following article:
-> Lu, Z. & Golomb, J. D. (2025). Spatiotemporal representations of 3D spatial location in the human brain. Nature Communications.
+> Lu, Z. & Golomb, J. D. (2025). Spatiotemporal representations of 3D spatial location in the human brain. bioRxiv.
